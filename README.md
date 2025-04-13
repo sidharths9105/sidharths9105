@@ -20,4 +20,4 @@
 - 📦 **Inventory Management System** – Simple system to manage stock and inventory efficiently  
 
 
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharths9105&show_icons=true&theme=default) 
+<!-- ![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharths9105&show_icons=true&theme=default) -->
