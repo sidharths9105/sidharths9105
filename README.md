@@ -19,5 +19,5 @@
 - 😊 **Real-time Emotion Detection** – AI-powered model for detecting emotions live from camera  
 - 📦 **Inventory Management System** – Simple system to manage stock and inventory efficiently  
 
-<!-- GitHub Stats (optional) -->
-<!-- ![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth9105&show_icons=true&theme=default) -->
+
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharths9105&show_icons=true&theme=default) 
