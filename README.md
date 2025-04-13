@@ -12,6 +12,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Projects
 
@@ -19,5 +21,5 @@
 - 😊 **Real-time Emotion Detection** – AI-powered model for detecting emotions live from camera  
 - 📦 **Inventory Management System** – Simple system to manage stock and inventory efficiently  
 
-
-<!-- ![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharths9105&show_icons=true&theme=default) -->
+<!-- GitHub Stats (optional) -->
+<!-- ![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth9105&show_icons=true&theme=default) -->
