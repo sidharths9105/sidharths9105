@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sidharth S
 
-🎓 Third year CSE student at LBS College of Engineering, Kasaragod  
+🎓 Final year CSE student at LBS College of Engineering, Kasaragod  
 💻 Passionate about building intelligent systems and clean web applications  
 📫 Reach me at: sidharths9105@gmail.com  
 
